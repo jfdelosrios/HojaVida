@@ -39,7 +39,7 @@ Habilidades técnicas
 - Lenguajes de programación: Python, R, SQL, MQL5, MQL4, Pine Script, C++, C#.
 - Extracción de datos: Scrapy, Selenium.
 - Análisis y manipulación de datos: Pandas, NumPy.
-- Visualización de información: Matplotlib, Seaborn.
+- Visualización de información: Matplotlib, Seaborn, ggplot2.
 - Series temporales y técnicas de ETL.
 - Machine Learning: Scikit-Learn, modelos supervisados y no supervisados.
 - Habilidades blandas: Trabajo en equipo, autodidacta, liderazgo.
