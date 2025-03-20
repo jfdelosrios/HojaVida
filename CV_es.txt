@@ -3,15 +3,19 @@ Científico de datos, analista de datos, automatización de modelos predictivos.
 jfdelosrios@hotmail.com, +57 315-860-06-19
 https://www.linkedin.com/in/jfdelosrios/
 
+
 Perfil profesional.
 Estudiante de Ciencia de Datos con experiencia en diseño y desarrollo de modelos predictivos y automatización de procesos. Apasionado por el aprendizaje automático, inteligencia artificial y análisis de datos. Cuento con facilidad para reubicarme en otra región por motivos laborales.
 
+
 Experiencia profesional.
+
 The Brickell Fintech Group 2021 - Presente
 Senior Developer
 - Participo en proyectos de automatización de procesos ETL y desarrollo de modelos predictivos.
 - Asesoro y guío a desarrolladores junior.
 - Gestiono y optimizo el ciclo de vida del software mediante control de versiones.
+
 Autónomo 2015 - Actualidad
 Desarrollador de Software y Consultor
 - Analizo series temporales y desarrollo modelos predictivos.
@@ -20,11 +24,13 @@ Desarrollador de Software y Consultor
 - Asesoro a especuladores de mercados en modelos predictivos.
 - Gestiono el ciclo de vida del software.
 
+
 Educación
 - Grado en Ciencia de Datos 2024 - Actualidad
 Universidad Internacional de La Rioja (UNIR)
 - Técnico en Análisis y Programación de Sistemas 2005 - 2007
 Corporación Educativa Alexander Von Humboldt
+
 
 Habilidades técnicas
 - Lenguajes de programación: Python, R, SQL, MQL5, MQL4, Pine Script, C++, C#.
@@ -36,12 +42,14 @@ Habilidades técnicas
 - Herramientas: Jupyter Notebook, Git, MetaTrader, Esignal, Visual Studio, Microsoft Project.
 - Conceptos clave: Modelado de datos, análisis estadístico, aprendizaje automático, trading algorítmico.
 
+
 Certificaciones
 - Análisis de Datos con Python - Platzi - 2022
 - Fundamentos de Data e Inteligencia Artificial - Platzi - 2022
 - Data Scientist con Python - Platzi - 2022
 - Curso de Trading Financiero con R - Platzi - 2020
 - Planeación Estratégica de Proyectos - SENA - 2011
+
 
 Idiomas
 - Español: Nativo (C2)
