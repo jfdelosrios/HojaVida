@@ -10,9 +10,10 @@ Gestión de capital
 
 promts:
 
-Evalúa si el Curriculum Vitae (almacenado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.txt) cumple con los reuqerimientos de un ATS estricto.
+Actúa como un "Applicant Tracking System" muy estricto y compara mi "Cutticulum Vitae" (almacenado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.txt) con la vacante 
 
+Brindame recomendaciones detalladas para mejorar las metricas de similitud
 
-Lee mi CV (Curriculum Vitae) guardado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.txt
+calcula la similitud del coseno
 
-Actua como un ATS muy estricto y dime tanto cumple mi CV (almacenada en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.txt) con la vacante 
+Calcula la similitud de Jaccard
