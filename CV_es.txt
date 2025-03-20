@@ -5,6 +5,7 @@ https://www.linkedin.com/in/jfdelosrios/
 
 
 Perfil profesional.
+
 Estudiante de Ciencia de Datos con experiencia en diseño y desarrollo de modelos predictivos y automatización de procesos. Apasionado por el aprendizaje automático, inteligencia artificial y análisis de datos. Cuento con facilidad para reubicarme en otra región por motivos laborales.
 
 
@@ -26,6 +27,7 @@ Desarrollador de Software y Consultor
 
 
 Educación
+
 - Grado en Ciencia de Datos 2024 - Actualidad
 Universidad Internacional de La Rioja (UNIR)
 - Técnico en Análisis y Programación de Sistemas 2005 - 2007
@@ -33,17 +35,20 @@ Corporación Educativa Alexander Von Humboldt
 
 
 Habilidades técnicas
+
 - Lenguajes de programación: Python, R, SQL, MQL5, MQL4, Pine Script, C++, C#.
 - Extracción de datos: Scrapy, Selenium.
-- Análisis y manipulación de datos: Pandas, NumPy, Matplotlib, Seaborn.
+- Análisis y manipulación de datos: Pandas, NumPy.
+- Visualización de datos: Matplotlib, Seaborn.
 - Series temporales y técnicas de ETL.
 - Machine Learning: Scikit-Learn, modelos supervisados y no supervisados.
 - Habilidades blandas: Trabajo en equipo, capacidad de análisis, autodidacta, liderazgo.
-- Herramientas: Jupyter Notebook, Git, MetaTrader, Esignal, Visual Studio, Microsoft Project.
-- Conceptos clave: Modelado de datos, análisis estadístico, aprendizaje automático, trading algorítmico.
+- Herramientas: Jupyter Notebook, Google Colab, Git, MetaTrader, Esignal, Visual Studio, Microsoft Project.
+- Conceptos clave: Modelado de datos, análisis estadístico, aprendizaje automático, ambientes cloud, trading algorítmico.
 
 
 Certificaciones
+
 - Análisis de Datos con Python - Platzi - 2022
 - Fundamentos de Data e Inteligencia Artificial - Platzi - 2022
 - Data Scientist con Python - Platzi - 2022
@@ -52,5 +57,6 @@ Certificaciones
 
 
 Idiomas
+
 - Español: Nativo (C2)
 - Inglés: Intermedio (B1)
