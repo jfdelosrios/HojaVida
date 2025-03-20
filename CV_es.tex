@@ -1,120 +1,113 @@
-% !TeX program = xelatex
 \documentclass[letterpaper,12pt]{article}
-\renewcommand{\baselinestretch}{0.8} % Reduce el espacio entre líneas
-\usepackage{titlesec}
-\titlespacing{\section}{0pt}{2pt}{2pt} % {izquierda}{antes}{después}
+
+% Configuración del idioma español (traduce secciones y ajusta reglas tipográficas)
 \usepackage[spanish]{babel}
-\usepackage{fontspec} % Permite usar fuentes del sistema
-\setmainfont{Arial} % Establece Arial como la fuente principal
-\usepackage[utf8]{inputenc}
+
+% Configuración de márgenes
 \usepackage{geometry}
-\usepackage{hyperref}  % Cargar el paquete para href
-\usepackage{ragged2e}
-\usepackage{setspace} % Carga el paquete para \onehalfspacing
 
-\geometry{top=1.27cm, bottom=1.27cm, left=3cm, right=1.27cm}
+% Manejo de enlaces en el documento
+\usepackage{hyperref}
 
-\title{Jorge Fernando De Los Ríos De Los Ríos}
-\author{científico de datos, análista de datos | automatización de modelos predictivos}
-\date{}
+% Personalización de listas (permite ajustar márgenes en listas enumeradas y con viñetas)
+\usepackage{enumitem}
+
+% Personalización de los títulos de sección
+\usepackage{titlesec}
+
+% Agregado para justificación del texto
+\usepackage{ragged2e} 
+
+% Agregado para control del interlineado
+\usepackage{setspace} 
+
+\geometry{top=2cm, bottom=2cm, left=3cm, right=2cm} % Ajuste del margen izquierdo
+
+% Configuración de los hipervínculos
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue
+}
+
+% Configuración del formato de los títulos de sección con espaciado
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{10pt}{5pt} % Ajusta el espacio antes y después de cada sección
 
 \begin{document}
-\justifying
-\onehalfspacing
 
-\maketitle
+% Aplicar interlineado de 1.0
+\singlespacing 
 
-\href{mailto:jfdelosrios@hotmail.com}{jfdelosrios@hotmail.com} |
-\href{tel:+573158600619}{+57 315 860 06 19} |
-Cali, Colombia
+% Aplicar justificación al texto
+\justifying 
 
-\href{https://www.linkedin.com/in/jfdelosrios/}{https://www.linkedin.com/in/jfdelosrios/}
+\begin{center}
+    {\LARGE \textbf{Jorge Fernando De Los R\'ios De Los R\'ios}}\\
+    \vspace{0.2cm}
+    Cient\'ifico de Datos, Analista de Datos | Automatizaci\'on de Modelos Predictivos\\
+    \vspace{0.2cm}
+    \href{mailto:jfdelosrios@hotmail.com}{jfdelosrios@hotmail.com} | 
+    \href{tel:+573158600619}{+57 315 860 06 19} | 
+    Cali, Colombia | 
+    \href{https://www.linkedin.com/in/jfdelosrios/}{https://www.linkedin.com/in/jfdelosrios/}
+\end{center}
 
 \section*{Perfil Profesional}
-
-Estudiante de Ciencia de Datos  con experiencia en proyectos de diseño y desarrollo de modelos predictivos y automatización de procesos. Apasionado por el aprendizaje automático, inteligencia artificial y el análisis de datos.
+Estudiante de Ciencia de Datos con experiencia en dise\~no y desarrollo de modelos predictivos y automatizaci\'on de procesos. Apasionado por el aprendizaje autom\'atico, inteligencia artificial y an\'alisis de datos. Cuento con facilidad para reubicarme en otra región por motivos laborales.
 
 \section*{Experiencia Profesional}
 
-\subsection*{The Brickell Fintech Group} - Senior Developer \hfill 2021 - Presente
-
-\textbf{Situación y Tarea:}
-
-El equipo de análisis financiero depende de procesos manuales para ejecutar estrategias de trading, lo que genera ineficiencias operativas fuera de los parámetros estadísticos establecidos.
-
-\textbf{Acción:}
-
-\begin{itemize}
-    \item Participo en proyectos de diseño, desarrollo procesos de automatización de ETL y modelos de predictivos.
-    \item Guío y asesoro a desarrolladores junior.
-    \item Gestiono y optimizo el ciclo de vida del software mediante el control de versiones.
+\textbf{The Brickell Fintech Group} \hfill \textbf{2021 - Presente}\\
+\textit{Senior Developer}
+\begin{itemize}[leftmargin=0.5cm]
+    \item Participo en proyectos de automatizaci\'on de procesos ETL y desarrollo de modelos predictivos.
+    \item Asesoro y gu\'io a desarrolladores junior.
+    \item Gestiono y optimizo el ciclo de vida del software mediante control de versiones.
 \end{itemize}
 
-\textbf{Resultado:}
-
-\begin{itemize}
-    \item Reducción del tiempo empleado por analistas en ejecución y supervisión de estrategias.
-    \item Disminución del error humano y alineación de operaciones con parámetros estadísticos.
-    \item Automatización de operaciones en mercados bursátiles.
-    \item Reducción del riesgo y conservación de capital de los especuladores de mercados.
+\textbf{Aut\'onomo} \hfill \textbf{2015 - Actualidad}\\
+\textit{Desarrollador de Software y Consultor}
+\begin{itemize}[leftmargin=0.5cm]
+    \item Analizo series temporales y desarrollo modelos predictivos.
+    \item Recolecto y optimizo datos de mercados mediante APIs y web scraping.
+    \item Aplico modelos estad\'isticos para predicciones.
+    \item Asesoro a especuladores de mercados en modelos predictivos.
+    \item Gestiono el ciclo de vida del software.
 \end{itemize}
 
-\subsection*{Autónomo} - Desarrollador de Software y consultor. \hfill 2015 - Actualidad
+\section*{Educaci\'on}
 
-\textbf{Situación y Tarea:}
+\textbf{Grado en Ciencia de Datos} \hfill \textbf{2024 - Actualidad}\\
+\textit{Universidad Internacional de La Rioja (UNIR)}
 
-Los analistas de mercado requieren herramientas personalizadas para ejecutar estrategias de trading de manera eficiente.
+\textbf{T\'ecnico en An\'alisis y Programaci\'on de Sistemas} \hfill \textbf{2005 - 2007}\\
+\textit{Corporaci\'on Educativa Alexander Von Humboldt}
 
-\textbf{Acción:}
-
-\begin{itemize}
-    \item Analizo series temporales para diseñar, desarrollar modelos predictivos.
-    \item Recolecto datos de mercados mediante APIs o procedimientos de Web Sraping, para luego hacerlos optimos para su analisis.
-    \item Aplico modelos estadísticos para hacer predicciones.
-    \item Asesoro a especuladores de mercados en sus modelos predictivos.
-    \item Gestiono ciclo de vida del software.
-\end{itemize}
-
-\textbf{Resultado:}
-
-\begin{itemize}
-    \item Reducción del tiempo y esfuerzo requerido por los analistas.
-    \item Optimización de la toma de decisiones en trading.
-    \item reducción del riesgo y conservación de capital de los especuladores de mercados.
-\end{itemize}
-
-\section*{Educación}
-
-\textbf{Grado en Ciencia de Datos} - Universidad Internacional de La Rioja (UNIR) \hfill 2024 - Actualidad
-
-\textbf{Técnico en Análisis y Programación de Sistemas} - Corporación Educativa Alexander Von Humboldt \hfill 2005 - 2007
-
-\section*{Habilidades Técnicas}
-\begin{itemize}
-    \item Lenguajes de programación: Python, R, SQL, MQL5, MQL4, Pine Script, C++, C$\#$.
-    \item Machine Learning: Scikit-Learn, modelos supervisados y no supervisados
-    \item Análisis y manipulación de datos: Pandas, NumPy, Matplotlib, Seaborn, Scrapy, Selenium.
-    \item series temporales, Tecnicas de ETL.
-    \item Habilidades blandas: Trabajo en equipo, capacidad de análisis, autodidacta, liderazgo.
-    \item Herramientas: Jupyter Notebook, Git, MetaTrader, Esignal, Visual Studio, Microsoft Project.
-    \item Conceptos clave: Modelado de datos, análisis estadístico, aprendizaje automático, trading algorítmico.
+\section*{Habilidades T\'ecnicas}
+\begin{itemize}[leftmargin=0.5cm]
+    \item \textbf{Lenguajes de programaci\'on:} Python, R, SQL, MQL5, MQL4, Pine Script, C++, C$\#$.
+    \item \textbf{Machine Learning:} Scikit-Learn, modelos supervisados y no supervisados.
+    \item \textbf{An\'alisis y manipulaci\'on de datos:} Pandas, NumPy, Matplotlib, Seaborn, Scrapy, Selenium.
+    \item \textbf{Series temporales y t\'ecnicas de ETL.}
+    \item \textbf{Habilidades blandas:} Trabajo en equipo, capacidad de an\'alisis, autodidacta, liderazgo.
+    \item \textbf{Herramientas:} Jupyter Notebook, Git, MetaTrader, Esignal, Visual Studio, Microsoft Project.
+    \item \textbf{Conceptos clave:} Modelado de datos, an\'alisis estad\'istico, aprendizaje autom\'atico, trading algor\'itmico.
 \end{itemize}
 
 \section*{Certificaciones}
-
-\begin{itemize}
-    \item Análisis de Datos con Python - Platzi - 2022
+\begin{itemize}[leftmargin=0.5cm]
+    \item An\'alisis de Datos con Python - Platzi - 2022
     \item Fundamentos de Data e Inteligencia Artificial - Platzi - 2022
     \item Data Scientist con Python - Platzi - 2022
     \item Curso de Trading Financiero con R - Platzi - 2020
-    \item Planeación Estratégica de Proyectos - SENA - 2011
+    \item Planeaci\'on Estrat\'egica de Proyectos - SENA - 2011
 \end{itemize}
 
 \section*{Idiomas}
-
-\begin{itemize}
-    \item Español: Nativo (C2)
-    \item Inglés: Intermedio (B1)
+\begin{itemize}[leftmargin=0.5cm]
+    \item \textbf{Espa\~nol:} Nativo (C2)
+    \item \textbf{Ingl\'es:} Intermedio (B1)
 \end{itemize}
 
 \end{document}
