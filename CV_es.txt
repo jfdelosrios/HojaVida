@@ -6,22 +6,22 @@ https://www.linkedin.com/in/jfdelosrios/
 
 Perfil profesional.
 
-Estudiante de Ciencia de Datos con experiencia en diseño y desarrollo de modelos predictivos y automatización de procesos. Apasionado por el aprendizaje automático, inteligencia artificial y análisis de datos. Cuento con facilidad para reubicarme en otra región por motivos laborales.
+Estudiante de Ciencia de Datos con experiencia en diseño y desarrollo de modelos predictivos y automatización de procesos. Apasionado por el aprendizaje automático, inteligencia artificial y análisis de datos. Cuento con disponibilidad de traslado.
 
 
 Experiencia profesional.
 
 The Brickell Fintech Group 2021 - Presente
 Senior Developer
-- Participo en proyectos de automatización de procesos ETL y desarrollo de modelos predictivos.
+- Participo en proyectos ingenieriles de automatización de procesos ETL y desarrollo de modelos predictivos.
 - Asesoro y guío a desarrolladores junior.
 - Gestiono y optimizo el ciclo de vida del software mediante control de versiones.
 
 Autónomo 2015 - Actualidad
 Desarrollador de Software y Consultor
 - Analizo series temporales y desarrollo modelos predictivos.
-- Recolecto y optimizo datos de mercados mediante APIs y web scraping.
-- Aplico modelos estadísticos para predicciones.
+- Recolecto y optimizo datos de mercados financieros mediante APIs y web scraping.
+- Aplico modelos estadísticos para predicciones para trading algoritmico.
 - Asesoro a especuladores de mercados en modelos predictivos.
 - Gestiono el ciclo de vida del software.
 
@@ -44,7 +44,7 @@ Habilidades técnicas
 - Machine Learning: Scikit-Learn, modelos supervisados y no supervisados.
 - Habilidades blandas: Trabajo en equipo, capacidad de análisis, autodidacta, liderazgo.
 - Herramientas: Jupyter Notebook, Google Colab, Git, MetaTrader, Esignal, Visual Studio, Microsoft Project.
-- Conceptos clave: Modelado de datos, análisis estadístico, aprendizaje automático, ambientes cloud, trading algorítmico.
+- Conceptos clave: Modelado de datos, análisis estadístico, aprendizaje automático, ambientes cloud, trading algorítmico, esperiencia del usuario.
 
 
 Certificaciones
