@@ -22,7 +22,7 @@ start CV_es.pdf
 
 promts:
 
-Lee mi curriculum vitae guardado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.tex
+Lee mi curriculum vitae guardado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.txt
 
 Evalúa que tan fácil le queda interpretar mi curriculum vitae a un ATS muy estricto.
 
