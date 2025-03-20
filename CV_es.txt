@@ -1,9 +1,12 @@
-JORGE FERNANDO DE LOS RÍOS DE LOS RÍOS
-Científico de Datos, Analista de Datos, Automatización de Modelos Predictivos
-jfdelosrios@hotmail.com, +57 315-860-06-19, Cali, Colombia, https://www.linkedin.com/in/jfdelosrios/
-PERFIL PROFESIONAL
+Jorge Fernando De Los Ríos De Los Ríos
+Científico de datos, analista de datos, automatización de modelos predictivos.
+jfdelosrios@hotmail.com, +57 315-860-06-19
+https://www.linkedin.com/in/jfdelosrios/
+
+Perfil profesional.
 Estudiante de Ciencia de Datos con experiencia en diseño y desarrollo de modelos predictivos y automatización de procesos. Apasionado por el aprendizaje automático, inteligencia artificial y análisis de datos. Cuento con facilidad para reubicarme en otra región por motivos laborales.
-EXPERIENCIA PROFESIONAL
+
+Experiencia profesional.
 The Brickell Fintech Group 2021 - Presente
 Senior Developer
 - Participo en proyectos de automatización de procesos ETL y desarrollo de modelos predictivos.
@@ -16,25 +19,30 @@ Desarrollador de Software y Consultor
 - Aplico modelos estadísticos para predicciones.
 - Asesoro a especuladores de mercados en modelos predictivos.
 - Gestiono el ciclo de vida del software.
-EDUCACIÓN
+
+Educación
 - Grado en Ciencia de Datos 2024 - Actualidad
 Universidad Internacional de La Rioja (UNIR)
 - Técnico en Análisis y Programación de Sistemas 2005 - 2007
 Corporación Educativa Alexander Von Humboldt
-HABILIDADES TÉCNICAS
+
+Habilidades técnicas
 - Lenguajes de programación: Python, R, SQL, MQL5, MQL4, Pine Script, C++, C#.
-- Machine Learning: Scikit-Learn, modelos supervisados y no supervisados.
-- Análisis y manipulación de datos: Pandas, NumPy, Matplotlib, Seaborn, Scrapy, Selenium.
+- Extracción de datos: Scrapy, Selenium.
+- Análisis y manipulación de datos: Pandas, NumPy, Matplotlib, Seaborn.
 - Series temporales y técnicas de ETL.
+- Machine Learning: Scikit-Learn, modelos supervisados y no supervisados.
 - Habilidades blandas: Trabajo en equipo, capacidad de análisis, autodidacta, liderazgo.
 - Herramientas: Jupyter Notebook, Git, MetaTrader, Esignal, Visual Studio, Microsoft Project.
 - Conceptos clave: Modelado de datos, análisis estadístico, aprendizaje automático, trading algorítmico.
-CERTIFICACIONES
+
+Certificaciones
 - Análisis de Datos con Python - Platzi - 2022
 - Fundamentos de Data e Inteligencia Artificial - Platzi - 2022
 - Data Scientist con Python - Platzi - 2022
 - Curso de Trading Financiero con R - Platzi - 2020
 - Planeación Estratégica de Proyectos - SENA - 2011
-IDIOMAS
+
+Idiomas
 - Español: Nativo (C2)
 - Inglés: Intermedio (B1)
