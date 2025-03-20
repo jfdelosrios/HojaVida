@@ -1,0 +1,40 @@
+Jorge Fernando De Los Ríos De Los Ríos
+Científico de Datos, Analista de Datos | Automatización de Modelos Predictivos
+jfdelosrios@hotmail.com | +57 315 860 06 19 | Cali, Colombia | https://www.linkedin.com/in/jfdelosrios/
+Perfil Profesional
+Estudiante de Ciencia de Datos con experiencia en diseño y desarrollo de modelos predictivos y automatización de procesos. Apasionado por el aprendizaje automático, inteligencia artificial y análisis de datos. Cuento con facilidad para reubicarme en otra región por motivos laborales.
+Experiencia Profesional
+The Brickell Fintech Group 2021 - Presente
+Senior Developer
+* Participo en proyectos de automatización de procesos ETL y desarrollo de modelos predictivos.
+* Asesoro y guío a desarrolladores junior.
+* Gestiono y optimizo el ciclo de vida del software mediante control de versiones.
+Autónomo 2015 - Actualidad
+Desarrollador de Software y Consultor
+* Analizo series temporales y desarrollo modelos predictivos.
+* Recolecto y optimizo datos de mercados mediante APIs y web scraping.
+* Aplico modelos estadísticos para predicciones.
+* Asesoro a especuladores de mercados en modelos predictivos.
+* Gestiono el ciclo de vida del software.
+Educación
+Grado en Ciencia de Datos 2024 - Actualidad
+Universidad Internacional de La Rioja (UNIR)
+Técnico en Análisis y Programación de Sistemas 2005 - 2007
+Corporación Educativa Alexander Von Humboldt
+Habilidades Técnicas
+* Lenguajes de programación: Python, R, SQL, MQL5, MQL4, Pine Script, C++, C#.
+* Machine Learning: Scikit-Learn, modelos supervisados y no supervisados.
+* Análisis y manipulación de datos: Pandas, NumPy, Matplotlib, Seaborn, Scrapy, Selenium.
+* Series temporales y técnicas de ETL.
+* Habilidades blandas: Trabajo en equipo, capacidad de análisis, autodidacta, liderazgo.
+* Herramientas: Jupyter Notebook, Git, MetaTrader, Esignal, Visual Studio, Microsoft Project.
+* Conceptos clave: Modelado de datos, análisis estadístico, aprendizaje automático, trading algorítmico.
+Certificaciones
+* Análisis de Datos con Python - Platzi - 2022
+* Fundamentos de Data e Inteligencia Artificial - Platzi - 2022
+* Data Scientist con Python - Platzi - 2022
+* Curso de Trading Financiero con R - Platzi - 2020
+* Planeación Estratégica de Proyectos - SENA - 2011
+Idiomas
+* Español: Nativo (C2)
+* Inglés: Intermedio (B1)

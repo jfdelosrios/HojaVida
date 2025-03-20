@@ -21,7 +21,13 @@ Iniciar archivo pdf:
 start CV_es.pdf
 
 promts:
+
+Lee mi curriculum vitae guardado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.tex
+
+Evalúa que tan fácil le queda interpretar mi curriculum vitae a un ATS muy estricto.
+
+Evalúa si un ATS muy estricto puede interpretar con facilidad mi curriculum vitae.
+
 Quiero que actues como un ATS muy estricto y me digas que tanto cumple mi CV con una oferta laboral que vi.
 
-La hoja de vida la tengo guardada en 
-https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.tex
+Verifica con un analizador de ATS online como Jobscan o Resume Worded para probar cómo se interpreta tu CV.
