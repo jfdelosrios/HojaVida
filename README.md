@@ -12,7 +12,7 @@ Verifica con un analizador de ATS online como Resunate, Jobscan o Resume Worded 
 
 promts:
 
-verifica si existe caracteres fuera del rango ASCII en el archivo almacenado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.txt
+verifica si existe caracteres fuera del rango UTF-8 en el archivo almacenado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.txt
 
 Evalúa si un ATS muy estricto puede interpretar con facilidad mi Curriculum Vitae, el cual está guardado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.txt.
 
