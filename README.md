@@ -10,10 +10,10 @@ Gestión de capital
 
 promts:
 
-Actúa como un "Applicant Tracking System" muy estricto y compara mi "Cutticulum Vitae" (almacenado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.txt) con la vacante 
+Actúa como un "Applicant Tracking System" muy estricto y compara mi "Cutticulum Vitae" (almacenado en https://raw.githubusercontent.com/jfdelosrios/HojaVida/refs/heads/desarrollo/CV_es.txt) y la vacante 
 
 Brindame recomendaciones detalladas para mejorar las metricas de similitud
 
-calcula la similitud del coseno
+Brindame la similitud del coseno
 
-Calcula la similitud de Jaccard
+Brindame la similitud de Jaccard

@@ -39,12 +39,12 @@ Habilidades técnicas
 - Lenguajes de programación: Python, R, SQL, MQL5, MQL4, Pine Script, C++, C#.
 - Extracción de datos: Scrapy, Selenium.
 - Análisis y manipulación de datos: Pandas, NumPy.
-- Visualización de datos: Matplotlib, Seaborn.
+- Visualización de información: Matplotlib, Seaborn.
 - Series temporales y técnicas de ETL.
 - Machine Learning: Scikit-Learn, modelos supervisados y no supervisados.
-- Habilidades blandas: Trabajo en equipo, capacidad de análisis, autodidacta, liderazgo.
-- Herramientas: Jupyter Notebook, Google Colab, Git, MetaTrader, Esignal, Visual Studio, Microsoft Project.
-- Conceptos clave: Modelado de datos, análisis estadístico, aprendizaje automático, ambientes cloud, trading algorítmico, esperiencia del usuario.
+- Habilidades blandas: Trabajo en equipo, autodidacta, liderazgo.
+- Herramientas: Jupyter Notebook, Google Colab, Git, GitHub, MetaTrader, Esignal, Visual Studio, Microsoft Project.
+- Conceptos clave: Modelado de datos, análisis estadístico, análisis descriptivo, aprendizaje automático, ambientes cloud, trading algorítmico, esperiencia del usuario.
 
 
 Certificaciones
